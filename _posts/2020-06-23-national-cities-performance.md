@@ -4,11 +4,9 @@ excerpt: "Data visualization, Tableau, Performance"
 header: ~
 tags:
   - visualization
-  - viz
   - tableau
 title: "Australian National Cities Performance"
+permalink: /portfolio/
 ---
-
-# Australian National Cities Performance
 
 Visualization of performance of 22 Australian cities.
