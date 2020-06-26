@@ -6,7 +6,6 @@ tags:
   - visualization
   - tableau
 title: "Australian National Cities Performance"
-permalink: /portfolio/
 ---
 
 Visualization of performance of 22 Australian cities.

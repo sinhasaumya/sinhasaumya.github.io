@@ -6,7 +6,6 @@ tags:
   - python
   - exploration
 title: "Star Wars"
-permalink: /portfolio/
 ---
 
 Understanding Star Wars response.
