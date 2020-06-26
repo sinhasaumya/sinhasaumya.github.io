@@ -1,0 +1,12 @@
+---
+date: 2020-05-23
+excerpt: "Star Wars Data Exploration"
+header: ~
+tags:
+  - python
+  - exploration
+title: "Star Wars"
+permalink: /portfolio/
+---
+
+Understanding Star Wars response.

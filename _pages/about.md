@@ -9,6 +9,6 @@ Hi!
 
 I'm a fervent practitioner of data science and business intelligence, and am also currently pursuing a graduate degree in data science.
 
-By exploring the field further and doing more with it, I hope to solve some of our problems and make our world a better place.
+By exploring the field further and doing more with it, I hope to help make our world a better place.
 
 Thanks for visiting.
