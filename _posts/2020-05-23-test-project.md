@@ -1,6 +1,6 @@
 ---
 date: 2020-05-09
-excerpt: "COVID-19 Tracker"
+excerpt: "Presentation of COVID-19 cases across the globe"
 header: ~
 tags:
   - tableau

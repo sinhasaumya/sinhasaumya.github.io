@@ -1,6 +1,6 @@
 ---
 date: 2020-06-23
-excerpt: "Data visualization, Tableau, Performance"
+excerpt: "Visualization of performance of 22 Australian cities"
 header: ~
 tags:
   - visualization
