@@ -13,7 +13,7 @@ COVID-19, the disease caused by the novel coronavirus, first hit China in Decemb
 
 Numerous tools have been built in order to inform researchers, public health authorities and the public about the outbreak as it unfolds. Such tools generate awareness among people and help in designing public health policies by providing information on the key metrics associated with COVID-19 - confirmed cases, active cases, deaths and recoveries.  
 
-The presented [COVID-19 Tracker] (https://public.tableau.com/profile/saumya.sinha1550#!/vizhome/COVID-19Tracker_15890027505320/GlobalView) provides a summary of the above-mentioned metrics; national breakdown and state-level breakdown, where available, of the metrics; and also the ability to sort nations based on the selected metric.  
+The presented [COVID-19 Tracker](https://public.tableau.com/profile/saumya.sinha1550#!/vizhome/COVID-19Tracker_15890027505320/GlobalView) provides a summary of the above-mentioned metrics; national breakdown and state-level breakdown, where available, of the metrics; and also the ability to sort nations based on the selected metric.  
 
 The data was sourced from Johns Hopkins Open Data, pre-processed on R and visualised on Tableau. The dashboard was **last refreshed on 22nd March 2020**.  
 

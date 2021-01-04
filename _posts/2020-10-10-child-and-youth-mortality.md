@@ -13,7 +13,7 @@ The study of child and youth mortality are key to improving survival and well-be
 1. Mortality rates among children and youth, ages 5 to 24 years, and 
 2. Number of deaths among children and youth, ages 5 to 24 years  
 
-The datasets were accessed [here] (https://data.unicef.org/topic/child-survival/child-and-youth-mortality-age-5-24/) and the data wrangling process and results are available on [RPubs] (https://rpubs.com/saumyasinha/678260).  
+The datasets were accessed [here](https://data.unicef.org/topic/child-survival/child-and-youth-mortality-age-5-24/) and the data wrangling process and results are available on [RPubs](https://rpubs.com/saumyasinha/678260).  
 
 In order to prepare this data for analysis, the following steps were taken -
 1. Read mortality rate data

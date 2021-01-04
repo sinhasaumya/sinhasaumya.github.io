@@ -10,12 +10,12 @@ title: "Revelations from a Star Wars Survey"
 
 Supposedly one of United States’ favourite movie series, the Star Wars franchise is one known to all across the globe. An author interested in understanding the franchise’s popularity in the US ran a poll on SurveyMonkey to quiz respondents on their most and least favourite movies and characters in the series among other things.  
 
-The [dataset]  (https://www.kaggle.com/samaxtech/star-wars-survey-data) is downloaded from Kaggle and explored using Python to find -
+The [dataset](https://www.kaggle.com/samaxtech/star-wars-survey-data) is downloaded from Kaggle and explored using Python to find -
 1. how respondents rated Star Wars movies
 2. the veracity of some plausible hypotheses
 3. the presence or lack of relationship between respondents’ demographics and their attitude to Star Wars characters  
 
-Analysis of the dataset is available [here] (https://github.com/sinhasaumya/projects/blob/main/star-wars-survey-data-exploration.ipynb).
+Analysis of the dataset is available [here](https://github.com/sinhasaumya/projects/blob/main/star-wars-survey-data-exploration.ipynb).
 
 Key findings from data exploration are summarised below.
 
