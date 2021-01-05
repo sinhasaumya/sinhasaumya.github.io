@@ -1,6 +1,6 @@
 ---
 date: 2020-08-16
-excerpt: "How do people understand and prepare for their long term financial needs after withdrawing their superannuation during COVID-19?"
+excerpt: "GovHack 2020 Honourable Mention recipient - how do people understand and prepare for their long term financial needs after withdrawing their superannuation during COVID-19?"
 header: ~
 tags:
   - pre-processing
