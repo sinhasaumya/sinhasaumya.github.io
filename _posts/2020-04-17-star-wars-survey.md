@@ -1,12 +1,14 @@
 ---
 date: 2020-04-17
-excerpt: "Exploration and insight extraction from data collected from a Star Wars survey"
+excerpt: "Exploring the popularity of the Star Wars franchise by analyzing responses to a survey run in the US.  Technique - Data cleaning, exploration and visualization using Python."
 header: ~
 tags:
   - star-wars
   - exploration
 title: "Revelations from a Star Wars Survey"
 ---
+
+*Quick links - [Dataset](https://www.kaggle.com/samaxtech/star-wars-survey-data), [Analysis](https://github.com/sinhasaumya/projects/blob/main/star-wars-survey-data-exploration.ipynb)*  
 
 Supposedly one of United States’ favourite movie series, the Star Wars franchise is one known to all across the globe. An author interested in understanding the franchise’s popularity in the US ran a poll on SurveyMonkey to quiz respondents on their most and least favourite movies and characters in the series among other things.  
 
