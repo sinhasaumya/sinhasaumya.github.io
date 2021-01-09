@@ -12,7 +12,7 @@ title: "Super Savings - Withdrawing Super During COVID-19"
 
 *Project received [Honourable Mention](https://govhack.org/2020-winners/) in the challenge ‘Withdrawing Super During COVID-19’ sponsored by Australian Taxation Office in GovHack 2020. Developed by team of six.*  
 
-*Quick links - [Code](https://github.com/krsharodh/superPredictor),[Dashboard](https://public.tableau.com/profile/saumya.sinha1550#!/vizhome/GovHack-Dynamic/Dashboard)*
+*Quick links - [Code](https://github.com/krsharodh/superPredictor), [Dashboard](https://public.tableau.com/profile/saumya.sinha1550#!/vizhome/GovHack-Dynamic/Dashboard)*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rDS0fI6PwCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
