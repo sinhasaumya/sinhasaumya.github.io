@@ -3,9 +3,10 @@ date: 2020-08-16
 excerpt: "Solution to help people understand and prepare for long term financial needs after withdrawing super during COVID-19. Algorithm in Python and viz using Tableau."
 header: ~
 tags:
-  - pre-processing
-  - child-mortality
-  - youth-mortality
+  - COVID-19
+  - super
+  - finance
+  - tableau
 title: "Super Savings - Withdrawing Super During COVID-19"
 ---
 
