@@ -1,6 +1,6 @@
 ---
 date: 2020-05-23
-excerpt: "Visualization of COVID-19 cases across the globe"
+excerpt: "Tracking spread of the COVID-19 pandemic across the world. Data cleaning using R and visualization using Tableau."
 header: ~
 tags:
   - tableau
@@ -8,6 +8,8 @@ tags:
   - pre-processing
 title: "COVID-19 Tracker"
 ---
+
+*Quick links - [Data pre-processing](https://github.com/sinhasaumya/projects/blob/main/COVID-19-tracker-data-prep.R),[Dashboard](https://public.tableau.com/profile/saumya.sinha1550#!/vizhome/COVID-19Tracker_15890027505320/GlobalView)*  
 
 COVID-19, the disease caused by the novel coronavirus, first hit China in December 2019. With the perpetuation of international travel as under normal circumstances, the disease steadily turned into a global pandemic infecting and claiming lives of millions.  
 
@@ -17,7 +19,7 @@ The presented [COVID-19 Tracker](https://public.tableau.com/profile/saumya.sinha
 
 The data was sourced from Johns Hopkins Open Data, pre-processed on R and visualised on Tableau. The dashboard was **last refreshed on 22nd March 2020**.  
 
-Data pre-processing steps include -
+Data [pre-processing](https://github.com/sinhasaumya/projects/blob/main/COVID-19-tracker-data-prep.R) steps include -
 1. Binding rows from different files into a single data frame
 2. Renaming column headers
 3. Removing whitespaces from State and Country

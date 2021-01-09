@@ -1,6 +1,6 @@
 ---
 date: 2020-04-17
-excerpt: "Exploring the popularity of the Star Wars franchise by analyzing responses to a survey run in the US.  Technique - Data cleaning, exploration and visualization using Python."
+excerpt: "Exploring popularity of the Star Wars franchise by analyzing survey responses. Data cleaning, exploration and visualization using Python."
 header: ~
 tags:
   - star-wars
