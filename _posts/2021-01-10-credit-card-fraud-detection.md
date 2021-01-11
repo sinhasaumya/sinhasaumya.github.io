@@ -12,4 +12,4 @@ title: "Credit Card Fraud Detection"
 
 *Quick links - *  
 
-<iframe src="https://rmiteduau-my.sharepoint.com/personal/s3825007_student_rmit_edu_au/_layouts/15/Doc.aspx?sourcedoc={1a335212-e845-4e02-9eba-523d4b17bc62}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>  
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/fiLPyLIcJiHcbk" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/secret/fiLPyLIcJiHcbk" title="Credit Card Fraud Detection" target="_blank">Credit Card Fraud Detection</a> </strong> from <strong><a href="https://www.slideshare.net/SaumyaSinha45" target="_blank">SaumyaSinha45</a></strong> </div>
