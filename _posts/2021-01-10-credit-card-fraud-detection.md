@@ -13,7 +13,7 @@ title: "Credit Card Fraud Detection"
 
 *Quick links - [Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud), [Kaggle notebook](https://www.kaggle.com/saumya94/credit-card-fraud-detection), [Github notebook](https://github.com/sinhasaumya/projects/blob/main/credit-card-fraud-detection.ipynb)*  
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/fiLPyLIcJiHcbk" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/secret/fiLPyLIcJiHcbk" title="Credit Card Fraud Detection" target="_blank">Credit Card Fraud Detection</a> </strong> from <strong><a href="https://www.slideshare.net/SaumyaSinha45" target="_blank">SaumyaSinha45</a></strong> </div>  
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/fiLPyLIcJiHcbk" width="586" height="490" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>  
 
   
 
